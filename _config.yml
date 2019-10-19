@@ -1,21 +1,21 @@
 # Site settings
-title: Highlights
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Highlights theme by HTML5 UP.
-baseurl: "/highlights-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Vinay Herur  
+email: vinayherur@live.com
+description: What's up world!
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
-facebook_url: https://facebook.com
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+facebook_url: https://www.facebook.com/vinayherur1
+github_url: https://github.com/vinayherur
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/vinayherur/
+linkedin_url: https://www.linkedin.com/in/vinay-herur/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
