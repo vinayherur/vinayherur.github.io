@@ -1312,7 +1312,7 @@
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../assets/images/2FCA92EE-5343-44EC-9C7B-C251DECF05F2.jpeg");
+		background-image: url("images/overlay.png"), url("../../assets/images/background-2.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
